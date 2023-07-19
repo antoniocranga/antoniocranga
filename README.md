@@ -6,6 +6,8 @@
 - Specialized in design patterns and architecture
 
 Read about my experience as an Erasmus student in Madrid 🇪🇸 - [Medium](https://medium.com/@antoniocranga/my-experience-as-an-erasmus-student-in-madrid-3e50cba8782f)
+
+My latest article about MVC Design Pattern using Riverpod in Flutter - [Medium](https://medium.com/@antoniocranga/mvc-design-pattern-using-riverpod-in-flutter-717ffa822786)
 <!--
 **antoniocranga/antoniocranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
